@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi! I'm Richard, statistician, actuary, and data/business analyst.
 
-<!--
-**richardgama/richardgama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>Mathematics:</b> I have a strong background in mathematics, including algebra, calculus, probability theory, statistics, and stochastic processes.
 
-Here are some ideas to get you started:
+<b>Programming:</b> I am proficient in several programming languages: Python, C++, JavaScript, HTML5, and CSS3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Data analysis:</b> I have experience working with large and complex datasets in the financial industry, to extract insights and build business knowledge.
+
+<b>Business analysis:</b> I have understanding of business processes and principles, and experience collaborating with various stakeholders to implement and monitor solutions.
+
+------------
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<br>
+![Javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
