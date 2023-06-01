@@ -1,12 +1,10 @@
 Hi! I'm Richard, statistician, actuary, and data/business analyst.
 
-<b>Mathematics:</b> I have a strong background in mathematics, including algebra, calculus, probability theory, statistics, and stochastic processes.
 
-<b>Programming:</b> I am proficient in several programming languages: Python, C++, JavaScript, HTML5, and CSS3.
 
-<b>Data analysis:</b> I have experience working with large and complex datasets in the financial industry, to extract insights and build business knowledge.
 
-<b>Business analysis:</b> I have understanding of business processes and principles, and experience collaborating with various stakeholders to implement and monitor solutions.
+
+
 
 ------------
 
