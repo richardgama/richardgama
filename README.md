@@ -1,4 +1,4 @@
-Hi! I'm Richard, statistician, actuary, and data/business analyst.
+Statistician, actuary and developer.
 
 
 
